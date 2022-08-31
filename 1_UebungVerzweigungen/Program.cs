@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-[20:17] Leo Heider
 
-/*
+
 int x = 9,z = 6; double y = 8;
 
 
@@ -38,7 +36,7 @@ Console.WriteLine((x *= -2) == z);
 //True
 
 
-*/
+
 
 
 Console.WriteLine("was wollen sie nehmen");
